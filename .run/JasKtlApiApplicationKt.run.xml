@@ -1,0 +1,19 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="JasKtlApiApplicationKt" type="JetRunConfigurationType" nameIsGenerated="true">
+    <envs>
+      <env name="JAS_DB_HOST" value="127.0.0.1" />
+      <env name="JAS_DB_NAME" value="postgres" />
+      <env name="JAS_DB_PASS" value="password" />
+      <env name="JAS_DB_PORT" value="5432" />
+      <env name="JAS_DB_SCHEMA" value="jas-ktl-api" />
+      <env name="JAS_DB_USER" value="postgres" />
+      <env name="SPRING_PROFILES_ACTIVE" value="dev" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="br.com.jardielsousa.JasKtlApiApplicationKt" />
+    <module name="jas-ktl-api" />
+    <shortenClasspath name="NONE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
